@@ -1,0 +1,202 @@
+body {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-kerning: normal;
+    line-height: 1;
+    
+   
+} 
+
+
+    
+
+
+.sela
+{   position: relative;
+    background-color: #EAF6F6;
+    width: 100%;
+    height: 25cm;
+    }
+
+    .sela1 {
+        margin:0%;
+        position: relative;
+        left: 50%;
+        top: 6.5cm;
+        font-size: 60px;
+        font-family: 'Sacramento', cursive;
+        color: #66BFBF;
+    }
+
+    .sela2 {
+        position: relative;
+        left: 50%;
+        top: 7cm;
+        font-family: 'Montserrat', sans-serif;
+        
+    }
+
+    .sela3 {
+        position: relative;
+        left: 38%;
+        top: 11.4cm;
+        
+    }
+
+    .sela4 {
+        position: absolute;
+        left: 35cm;
+    }
+    .moni1 {
+        border-radius: 50%;
+        width: 15%;
+        height: 15%;
+        position: relative;
+        
+        top: 25px;
+    }
+    .moni {
+        text-align: center;
+        
+        
+        
+    }
+ h3 {
+    margin: 0 750px 0 750px;
+    color: #40514E;
+    ;
+    
+ }
+
+ hr {
+    
+    border: dotted 7px;
+    border-bottom: none;
+    width: 35px;
+    color: #EAF6F6;
+  
+
+ }
+ h2 {
+    color: #66BFBF;
+    
+ }
+    .moni2
+    {
+        color: #66BFBF;
+        position: relative;
+        left: 3cm;
+        bottom: 5cm;
+    }
+    .gona {
+        border-radius: 50%;
+        position: relative;
+        right: 6cm;
+    }
+
+    .gona2 {
+        border-radius: 50%;
+    }
+
+    .kaila {
+        position: relative;
+        left: 4.5cm;
+        bottom: 4.5cm;
+    }
+
+    .kaila2 {
+        position: relative;
+        right: 7cm;
+        bottom: 4cm;
+    }
+    .gona2 {
+        position: relative;
+        left: 4cm;
+        bottom: 5cm;
+    }
+    .kaila3 {
+        position: relative;
+        right: 6cm;
+        bottom: 8cm;
+    }
+
+
+    button { 
+        
+
+  appearance: button;
+  background-color: #1899D6;
+  border: solid transparent;
+  border-radius: 16px;
+  border-width: 0 0 4px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-family: din-round,sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: .8px;
+  line-height: 20px;
+  margin: 0;
+  outline: none;
+  overflow: visible;
+  padding: 13px 16px;
+  text-align: center;
+  text-transform: uppercase;
+  touch-action: manipulation;
+  transform: translateZ(0);
+  transition: filter .2s;
+  user-select: none;
+  -webkit-user-select: none;
+  vertical-align: middle;
+  white-space: nowrap;
+  width: 10%;
+}
+
+.button-19:after {
+  background-clip: padding-box;
+  background-color: #1CB0F6;
+  border: solid transparent;
+  border-radius: 16px;
+  border-width: 0 0 4px;
+  bottom: -4px;
+  content: "";
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: -1;
+}
+
+.button-19:main,
+.button-19:focus {
+  user-select: auto;
+}
+
+.button-19:hover:not(:disabled) {
+  filter: brightness(1.1);
+  -webkit-filter: brightness(1.1);
+}
+
+.button-19:disabled {
+  cursor: auto;
+  
+}
+.un {
+    height: 5cm;
+    width: 100%;
+    background-color: #66BFBF;
+}
+    
+.ti {
+    color: #11999E;
+    word-spacing: 80px;
+}
+
+
+p {
+    color: #EAF6F6;
+    text-align: center;
+    font-size: small;
+}
